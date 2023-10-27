@@ -13,8 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Welcome to freshfooddz.com This domain name is owned by souici abdelatif.  <code>Contact me for more information</code>
         </p>
+        <a href="mailto:souiciabdelatif@gmail.com?subject=contact%20me%20on%200797281597" class="u-btn u-button-style u-palette-2-base u-btn-1"> Contact me
+        </a>
       </main>
 
       <Footer />
