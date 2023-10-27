@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to freshfooddz.com" />
         <p className="description">
          Welcome to freshfooddz.com This domain name is owned by souici abdelatif.  <code>Contact me for more information</code>
         </p>
